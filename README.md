@@ -1,3 +1,3 @@
-# angular-rwwaw6
+# simple angular project
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-rwwaw6)
+[Alireza ⚡️](https://t.me/Enekaas)
